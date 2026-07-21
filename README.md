@@ -46,6 +46,7 @@ The objective of this project is to analyze banking data and answer key business
 ## 🔍 Analysis Performed
 
 ### 👥 Customer Analysis
+
 - Customer demographics
 - Age distribution
 - Gender distribution
@@ -55,6 +56,7 @@ The objective of this project is to analyze banking data and answer key business
 - Customer loyalty classification
 
 ### 💰 Financial Portfolio Analysis
+
 - Bank deposits
 - Bank loans
 - Savings accounts
@@ -64,6 +66,7 @@ The objective of this project is to analyze banking data and answer key business
 - Business lending
 
 ### 📊 Customer Segmentation
+
 - Income-based segmentation
 - Loyalty-based segmentation
 - Risk weighting analysis
@@ -98,9 +101,44 @@ Customer Segmentation
 Power BI Dashboard
        ↓
 Business Insights
+````
+
+---
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of banking and financial performance.
+
+### Dashboard Features
+
+* KPI cards for key financial metrics
+* Customer demographic analysis
+* Loan and deposit portfolio analysis
+* Income band segmentation
+* Customer loyalty analysis
+* Credit card balance analysis
+* Banking product analysis
+* Interactive filters and dashboard navigation
+
+---
+
+## 💡 Business Insights
+
+This project enables stakeholders to:
+
+* Understand customer financial behavior
+* Monitor loan and deposit portfolios
+* Identify valuable customer segments
+* Analyze customer loyalty patterns
+* Evaluate banking product usage
+* Monitor financial performance
+* Support data-driven business decisions
+
+---
 
 ## 📁 Project Structure
 
+```text
 Banking-Financial-Analytics/
 │
 ├── Dataset/
@@ -116,33 +154,42 @@ Banking-Financial-Analytics/
 │   └── dashboard_preview.png
 │
 └── README.md
+```
 
-## 💡 Business Insights
-
-This project enables stakeholders to:
-
--Understand customer financial behavior
--Monitor loan and deposit portfolios
--Identify valuable customer segments
--Analyze customer loyalty patterns
--Evaluate banking product usage
--Monitor financial performance
--Support data-driven business decisions
+---
 
 ## 🎯 Skills Demonstrated
 
--SQL Data Analysis
--MySQL
--Power BI Dashboard Development
--KPI Development
--Customer Segmentation
--Financial Analytics
--Data Visualization
--Business Intelligence
--Data Storytelling
+* SQL Data Analysis
+* MySQL
+* Power BI Dashboard Development
+* KPI Development
+* Customer Segmentation
+* Financial Analytics
+* Data Visualization
+* Business Intelligence
+* Data Storytelling
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates how raw banking data can be transformed into meaningful financial insights through SQL-based analysis and interactive Power BI dashboards.
+
+The analysis supports a better understanding of customer behavior, banking product usage, financial portfolios, and customer segments.
+
+---
 
 ## 👨‍💻 Author
 
-Nikhil Lingam
+### Nikhil Lingam
 
-If you found this project helpful, consider ⭐ starring this repository!
+---
+
+⭐ If you found this project helpful, consider starring this repository!
+
+```
+
+**Important correction:** I added the missing closing code block after the workflow section and properly formatted the project structure and bullet points so the README renders correctly on GitHub.
+```
+
