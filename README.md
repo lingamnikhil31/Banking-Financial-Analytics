@@ -190,6 +190,3 @@ The analysis supports a better understanding of customer behavior, banking produ
 
 ```
 
-**Important correction:** I added the missing closing code block after the workflow section and properly formatted the project structure and bullet points so the README renders correctly on GitHub.
-```
-
